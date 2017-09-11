@@ -22,3 +22,4 @@ Den skal være enkel, men avansert for dem som ønsker flere funksjoner.
 Selling point:
 Vi ønsker å lage en innovativ taskmanager. Den skal være brukervennlig for folk i alle aldre, i tillegg til å være avansert for dem som ønsker dette.
 Vi ønsker at brukeren skal få en mestringsfølelse etter å ha utført en oppgave. 
+
