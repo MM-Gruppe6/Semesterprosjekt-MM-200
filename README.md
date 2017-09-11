@@ -5,3 +5,7 @@ Team Members
 Charlotte Kasin - https://github.com/ckasin
 Katarina M. Johannessen - https://github.com/KatarinaMJ
 Stefan blomberg - https://github.com/blomshit
+
+
+- 
+Story map - https://trello.com/b/DivIeg6d/story-map
