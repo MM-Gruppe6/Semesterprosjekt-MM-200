@@ -8,7 +8,9 @@ Stefan blomberg - https://github.com/blomshit
 
 
  
-Story map - https://trello.com/b/DivIeg6d/story-map
+Road map - https://trello.com/b/DivIeg6d/story-map
+
+Task manager Gruppe 6 - https://trello.com/b/01zZAyOg/task-manager-h%C3%B8sten-2017
 
  
 Taskmanageren skal ha mulighet til å legge til avtaler og oppgaver. Man skal ha mulighet til å legge inn nødvendig informasjon, som tittel, beskrivelse, tid og sted.
