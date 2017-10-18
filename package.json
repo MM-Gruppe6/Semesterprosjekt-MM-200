@@ -1,7 +1,7 @@
 {
-  "name": "katarina",
-  "version": "0.0.1",
-  "description": "Katarinas forslag",
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "Semesterprosjekt for gruppe 6 - MM-200",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200.git"
   },
-  "keywords": [
-    "katarina",
-    "forslag"
-  ],
-  "author": "Katarina",
+  "author": "katarina m j",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200/issues"
   },
-  "homepage": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200#readme"
+  "homepage": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200#readme",
+    "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5"
+  }
 }
