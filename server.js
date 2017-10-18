@@ -1,13 +1,16 @@
-const express = require('express')
-const app = express ()
+var express = require('express')
+var app = express()
 
-app.use(express.static ('public'))
+app.set('port', (process.env.PORT || 8080));
 
-var myArry = ["Velkommen ];
-   
 
-app.listen(process.env.PORT || 8080, function (){
-    console.log('Example app listening on port 8080!')
-    //console.log(greet());
-   
-})
+app.use(express.static(__dirname + '/public'));
+
+app.get('/', function(request, response) {
+  response.render('pages/index');
+});
+
+
+app.listen(app.get('port'), function() {
+    console.log('Koblet opp til port', app.get('port'));
+});
