@@ -24,7 +24,6 @@
   "bugs": {
     "url": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200/issues"
   },
-  "homepage": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200#readme"
   "homepage": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200#readme",
     "dependencies": {
     "body-parser": "^1.18.2",
