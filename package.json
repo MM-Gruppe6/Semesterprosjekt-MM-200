@@ -1,23 +1,41 @@
 {
+<<<<<<< HEAD
+  "name": "server_charlotte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+=======
   "name": "taskmanager",
   "version": "1.0.0",
   "description": "Semesterprosjekt for gruppe 6 - MM-200",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> ee29b15a7332f08efa0bf91386fa974adbf65e29
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200.git"
   },
+<<<<<<< HEAD
+  "author": "charlotte",
+=======
   "author": "katarina m j",
+>>>>>>> ee29b15a7332f08efa0bf91386fa974adbf65e29
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200/issues"
   },
+<<<<<<< HEAD
+  "homepage": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200#readme"
+=======
   "homepage": "https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200#readme",
     "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.15.5"
   }
+>>>>>>> ee29b15a7332f08efa0bf91386fa974adbf65e29
 }
