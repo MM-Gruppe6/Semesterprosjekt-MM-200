@@ -1,12 +1,4 @@
 {
-  "name": "server_charlotte",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
   "name": "taskmanager",
   "version": "1.0.0",
   "description": "Semesterprosjekt for gruppe 6 - MM-200",
@@ -18,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/MM-Gruppe6/Semesterprosjekt-MM-200.git"
   },
-  "author": "charlotte",
   "author": "katarina m j",
   "license": "ISC",
   "bugs": {
